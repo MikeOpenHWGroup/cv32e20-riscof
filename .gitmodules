@@ -1,3 +1,6 @@
 [submodule "riscv-arch-test"]
 	path = riscv-arch-test
 	url = git@github.com:riscv-non-isa/riscv-arch-test.git
+[submodule "cv32e20"]
+	path = cv32e20
+	url = git@github.com:openhwgroup/cve2
